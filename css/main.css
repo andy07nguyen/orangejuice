@@ -1,0 +1,153 @@
+* {
+	margin: 0;
+	padding: 0;
+}
+
+nav {
+	position: relative;
+	background-color: #fe7e00;
+	width: 100%;
+	height: 75px;
+	z-index: -1;
+}
+
+nav ul {
+	float: right;
+
+}
+
+nav ul li {
+	display: inline-block;
+	margin-right: 50px;
+	margin-top: 13px;
+}
+
+nav ul li a {
+	line-height: 55px;
+	text-decoration: none;
+	color: white;
+	margin-left: 10px;
+	font-family: 'Roboto', sans-serif;
+	font-size: 14px;
+}
+
+.logo h3 {
+	position: relative;
+	font-size: 38px;
+	left: 150px;
+	bottom: 60px;
+	color: white;
+	font-weight: lighter;
+}
+
+.logo h3 span {
+	font-family: 'Roboto', sans-serif;
+}
+
+.logo h3 sup {
+	font-size: 40%;
+	font-weight: bold;
+}
+
+.logo img {
+	position: relative;
+	height: 50px;
+	width:  50px;
+	bottom: 110px;
+	left: 35px;
+}
+
+h2 {
+	position: relative;
+	float: right;
+	text-align: left;
+	margin-right: 100px;
+	bottom: 290px;
+	font-size: 40px;
+	color: #fe7e00;
+	font-weight: lighter;
+	font-family: sans-serif;
+}
+
+h2 span {
+	font-family: 'Roboto', sans-serif;
+}
+
+h2 sup {
+	font-size: 50%;
+	font-weight: bold;
+}
+
+.fontColor {
+	color: #7acbc8;
+}
+
+.buttons ul {
+	position: relative;
+	float: right;
+	left: 530px;
+	top: 10px;
+}
+
+.buttons ul li {
+	display: inline-block;
+	margin-right: 30px
+}
+
+.buttons ul li a {
+	text-decoration: none;
+	font-size: 12px;
+	color: white;
+	font-family: sans-serif;
+	font-weight: normal;
+}
+
+.buttonbox1 a {
+	background-color: #fe7e00;
+	padding: 13px 70px;
+	float: left;
+	margin-top: -50%;
+}
+
+.buttonbox2 a {
+	background-color: #7acbc8;
+	padding: 13px 45px;
+	float: right;
+	margin-top: -53%;
+}
+
+.wrapper input {
+	position: absolute;
+	height: 45px;
+	width: 250px;
+	left: 975px;
+	bottom: 518px;
+	text-indent: 30px;
+	font-size: 12px
+}
+
+.wrapper .fa-search { 
+	position: relative;
+ 	color: #c7c7c9;
+ 	left: 1200px;
+ 	bottom: 403px;
+ }
+
+
+img {
+	position: relative;
+	width: 480px;
+	height: 320px;
+	margin-left: 60px;
+}
+
+footer {
+	position: relative;
+	background-color: #7acbc8;
+	width: 100%;
+	height: 75px;
+	margin-top: 101px;
+}
+
+
+
